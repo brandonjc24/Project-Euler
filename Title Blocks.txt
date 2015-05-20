@@ -2,5 +2,6 @@
 Brandon Coles Project Euler
 PROBLEM #: 
 DATE: mm/dd/yy
-DESCREIPTION: 
+DESCRIPTION:
+SOLUTION: 
  */
